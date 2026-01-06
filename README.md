@@ -2,16 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%8C%8E+From+Santa+Catarina%2C+Brazil;%F0%9F%A4%97+Passionate+about+coding!;)](https://git.io/typing-svg)
 
-Developer in constant learning, I am detail-oriented, patient, and focused on delivering well-structured solutions.
-
-Over 5 years of experience in technology (digital marketing, SEO, WordPress), which I now apply to building scalable and results-driven solutions.
+Back-end developer in constant learning. I am detail-oriented, patient, and focused on delivering well-structured solutions.
 
 ---
 
-### 📚 What I'm currently up to
+### 📚 Academic Background
 
-- Full-Stack Development (MBA program at Rocketseat).
-- Working as a Back-End Developer at Codarte Soluções.
+- Full-Stack Development (MBA at Rocketseat).
+
+---
+
+### 🚀 What I'm currently up to
+
+- Back-End Developer Jr. at Codarte Soluções.
+- Back-End Developer Jr. at Horizon Agency.
 
 ---
 
@@ -41,13 +45,9 @@ Over 5 years of experience in technology (digital marketing, SEO, WordPress), wh
 ### 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=walleskamaier&show_icons=true&theme=synthwave&include_all_commits=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=walleskamaier&show_icons=true&theme=synthwave&include_all_commits=true&cache_seconds=21600" alt="GitHub Stats">
 </p>
 
 <p>
-<img src="https://streak-stats.demolab.com?user=walleskamaier&theme=synthwave&hide_border=true&locale=en" alt="GitHub Streak">
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walleskamaier&size_weight=0.5&count_weight=0.5&theme=synthwave" alt="Top Langs">
+<img src="https://streak-stats.demolab.com?user=walleskamaier&theme=synthwave&hide_border=true&locale=en&cache_seconds=21600" alt="GitHub Streak">
 </p>
